@@ -130,7 +130,15 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Array.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MyQueue.h" />
     <ClInclude Include="MyVector.h" />
+    <ClInclude Include="MyStack.h" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="Set.h" />
+    <ClInclude Include="Stack.h" />
+    <ClInclude Include="Template.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
